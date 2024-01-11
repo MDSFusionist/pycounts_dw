@@ -24,20 +24,26 @@ fig = plot_words(counts, n=10)
 plt.show()
 ```
 
+## Pacakge Documentation
+
+Online documentation can be found [here](https://pycounts-dw.readthedocs.io/en/latest/index.html). 
+
+Publishing on [TestPyPi](https://test.pypi.org/project/pycounts_dw/) and [PyPi](https://pypi.org/project/pycounts_dw/).
+
 ## Contributing
 
-Interested in contributing? Check out the contributing guidelines. 
-Please note that this project is released with a Code of Conduct. 
+Interested in contributing? Check out the contributing guidelines.
+Please note that this project is released with a Code of Conduct.
 By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_dw` was created by Doris Wang. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
-[`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
-the `py-pkgs-cookiecutter` 
+`pycounts_dw` was created with
+[`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and
+the `py-pkgs-cookiecutter`
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
